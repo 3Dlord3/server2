@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "my web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3Dlord3/server.git"
+  },
+  "keywords": [],
+  "author": "3Dlord3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3Dlord3/server/issues"
+  },
+  "homepage": "https://github.com/3Dlord3/server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "ws": "^6.1.2"
+  }
+}
